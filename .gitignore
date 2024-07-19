@@ -162,4 +162,8 @@ cython_debug/
 #.idea/
 
 data/
+<<<<<<< HEAD
 data
+=======
+data
+>>>>>>> 8f4e0ec4c870ab2aa2f93a81c547dca2eeed1df2
